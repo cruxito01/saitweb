@@ -8,8 +8,9 @@ st.set_page_config(
 st.logo(
     "logo_content.png",
 )
-pg = st.navigation(["Intro.py", "NPC'S.py", "Jefes.py", "Mods.py", "Calamity_Mod.py", "creditos.py])
+pg = st.navigation(["Intro.py", "NPC'S.py", "Jefes.py", "Mods.py", "Calamity_Mod.py", "creditos.py"])
 
 pg.run()
+
 
 
