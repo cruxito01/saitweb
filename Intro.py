@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("Terraria")
-st.badge("Nuevoooo", color="purple", icon=":material/chevron_right:")
+st.badge("Nuevoooo", color="red", icon=":material/chevron_right:")
 
 st.header("La historia de un gran juego", divider=True)
 st.image("Terraria_inicio.jpg", caption="La portada del juego Terraria")
@@ -24,4 +24,5 @@ Personajes no jugables (NPCs): A medida que cumples ciertos objetivos (como cons
 
 En resumen, Terraria es un viaje de exploración y crecimiento constante. Pasas de ser un aventurero con nada a un héroe legendario capaz de derrotar a monstruos gigantes, todo mientras construyes el mundo de tus sueños.
 """
+
 )
